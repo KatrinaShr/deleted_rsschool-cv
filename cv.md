@@ -7,7 +7,7 @@
 
 ### About Me   
 
-I'm 27 years old. Developing in JS is something that inspires me, develops me. In other words, it's a field in which I do what I love to do. That's why I'm here. My goal is to gain knowledge in front-end development.
+I am 27 years old. Web site layout and development in JS is what inspires and develops me. Every day I try to learn something new in IT, that's why I'm here. My goal is to get as much knowledge and experience in front-end development as possible. I think that any goal is achievable, the main thing is to have more persistence and diligence. 
 
 My strengths are:
 * Quick learning curve
