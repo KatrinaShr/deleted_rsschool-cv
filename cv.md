@@ -7,7 +7,7 @@
 
 ### About Me   
 
-I'm 27 years old, working as a business analyst. Developing in JS is something that inspires me, keeps me busy, develops me. In other words, it's a field in which I do what I love to do. That's why I'm here. My goal is to gain knowledge in front-end development.
+I'm 27 years old. Developing in JS is something that inspires me, develops me. In other words, it's a field in which I do what I love to do. That's why I'm here. My goal is to gain knowledge in front-end development.
 
 My strengths are:
 * Quick learning curve
@@ -31,9 +31,9 @@ My strengths are:
 * QA (Technology)
 
 ### Code Examples  
-
+* Option 1:
 [My Project](https://rolling-scopes-school.github.io/katrinashr-JSFEPRESCHOOL2022Q2/momentum/)
-
+* Option 2: function towelSort (See below)
 ```
 function towelSort (matrix) {
   let result = [];
